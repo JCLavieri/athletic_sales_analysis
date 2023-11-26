@@ -44,5 +44,5 @@ We welcome contributions to improve the analysis:
 
 ## Contact
 - Juan Carlos Lavieri 
-- Project Link: [GitHub Repository URL]
+- Project Link: https://github.com/JCLavieri/athletic_sales_analysis.git
 
